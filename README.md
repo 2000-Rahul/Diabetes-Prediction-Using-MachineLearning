@@ -33,3 +33,9 @@
 - **from sklearn.metrics import accuracy_score** <br>
   Accuracy classification score. <br>
   In multilabel classification, this function computes subset accuracy: the set of labels predicted for a sample must exactly match the corresponding set of labels in y_true.
+
+## Model Prediction 
+
+
+![image](https://github.com/2000-Rahul/Diabetes-detection-MachineLearning/assets/136818857/154dbec2-9de8-4ad3-a8f3-a974df7a58a6)
+
