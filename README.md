@@ -39,3 +39,7 @@
 
 ![image](https://github.com/2000-Rahul/Diabetes-detection-MachineLearning/assets/136818857/154dbec2-9de8-4ad3-a8f3-a974df7a58a6)
 
+## Dataset
+- Download data set from here <br>
+https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+
